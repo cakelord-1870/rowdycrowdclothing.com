@@ -1,0 +1,1455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rowdycrowdclothing.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rowdycrowdclothing.com/collections/restocks.atom"/>
+  <title>Rowdy Crowd Clothing</title>
+  <updated>2021-08-20T10:38:12-05:00</updated>
+  <author>
+    <name>Rowdy Crowd Clothing</name>
+  </author>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4782287650865</id>
+    <published>2021-08-20T10:38:12-05:00</published>
+    <updated>2021-08-20T10:38:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/rodeo-wild-rag"/>
+    <title>Cowtown Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_2543.png?v=1609777384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Appx. 36" x 36"</p>
+<p>100% Polyester </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>animal</s:tag>
+    <s:tag>cow</s:tag>
+    <s:tag>cow print</s:tag>
+    <s:tag>cowhide</s:tag>
+    <s:tag>print</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>western</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wild rag</s:tag>
+    <s:tag>wild rags</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:tag>wildrags</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4782287650865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4517053497393</id>
+    <published>2021-08-12T16:19:47-05:00</published>
+    <updated>2021-08-12T16:19:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/pablo-ponytail"/>
+    <title>Pablo Ponytail</title>
+    <s:type>ponytail</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_6093.png?v=1583173028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>ponytail<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>aztec</s:tag>
+    <s:tag>concho</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>pablo</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>western</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4517053497393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6601653616689</id>
+    <published>2021-08-09T09:45:04-05:00</published>
+    <updated>2021-08-09T09:45:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/tuscan-wild-rag"/>
+    <title>Tuscan Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_7603.jpg?v=1626105907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>36" x 36"</p>
+<p>100% polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>paisley</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>tuscan</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6601653616689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6583468032049</id>
+    <published>2021-07-13T12:44:47-05:00</published>
+    <updated>2021-07-13T12:44:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/brown-road-wild-rag"/>
+    <title>Brown Road Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/image_3ea67626-3e72-4688-b07c-c37fc78a119c.jpg?v=1624299422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Appx 36" x 36"</p>
+<p class="p1" data-mce-fragment="1"><meta charset="utf-8"><span>100% Silk handle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black wild rag</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>brown wild rag</s:tag>
+    <s:tag>head scarf</s:tag>
+    <s:tag>paisley</s:tag>
+    <s:tag>Road</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6583468032049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6586186727473</id>
+    <published>2021-06-28T12:45:57-05:00</published>
+    <updated>2021-06-28T12:45:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/tip-your-hat-tee"/>
+    <title>Tip Your Hat Tee</title>
+    <s:type>Graphic Tee</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_7006.jpg?v=1624902386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Graphic Tee<br>
+        <strong>Price: </strong>
+            15.00 - 16.00
+            <a href="https://rowdycrowdclothing.com/products/tip-your-hat-tee">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unisex fit, true to size fit.</p>
+<p>52%Cotton / 48%Polyester </p>
+<p>Model is wearing a size Small.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bright</s:tag>
+    <s:tag>cowboy</s:tag>
+    <s:tag>cross</s:tag>
+    <s:tag>graphic</s:tag>
+    <s:tag>graphic tee</s:tag>
+    <s:tag>graphic top</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>horse</s:tag>
+    <s:tag>jesus</s:tag>
+    <s:tag>serape</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>tip</s:tag>
+    <s:tag>your</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6586186727473</id>
+      <title>Small</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6586186727473</id>
+      <title>Medium</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6586186727473</id>
+      <title>Large</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6586186727473</id>
+      <title>XL</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6586186727473</id>
+      <title>2XL</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6586186727473</id>
+      <title>3XL</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6546774687793</id>
+    <published>2021-06-07T13:05:35-05:00</published>
+    <updated>2021-06-07T13:05:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/fly-away-earrings"/>
+    <title>Fly Away Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_6576.jpg?v=1623089066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% REAL leather, and lightweight!</p>
+<p>Made in TEXAS!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>away</s:tag>
+    <s:tag>ear</s:tag>
+    <s:tag>earring</s:tag>
+    <s:tag>earrings</s:tag>
+    <s:tag>fly</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>phoenix</s:tag>
+    <s:tag>thunderbird</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6546774687793</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6542663778353</id>
+    <published>2021-05-17T12:24:14-05:00</published>
+    <updated>2021-05-17T12:24:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/enchantment-tee"/>
+    <title>Enchantment Tee</title>
+    <s:type>Graphic Tee</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_6343.png?v=1621272181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Graphic Tee<br>
+        <strong>Price: </strong>
+            15.50 - 16.50
+            <a href="https://rowdycrowdclothing.com/products/enchantment-tee">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>50% cotton 50% polyester</p>
+<p>Unisex fit, true to size.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>enchantment</s:tag>
+    <s:tag>graphic</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>symbol</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>top</s:tag>
+    <s:tag>turquoise</s:tag>
+    <s:tag>zia</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542663778353</id>
+      <title>Small</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542663778353</id>
+      <title>Medium</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542663778353</id>
+      <title>Large</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542663778353</id>
+      <title>Xlarge</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542663778353</id>
+      <title>2X</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542663778353</id>
+      <title>3X</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6553083609137</id>
+    <published>2021-05-14T12:27:18-05:00</published>
+    <updated>2021-05-14T12:27:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/pink-malibu-tee-clip-scarf-slide"/>
+    <title>Pink Malibu Tee Clip/Scarf Slide</title>
+    <s:type>Scarf Slide / Tee Clip</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_6543.jpg?v=1623089250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Scarf Slide / Tee Clip<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Adjustable ring/ scarf slide/ tee clip!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clip</s:tag>
+    <s:tag>malibu</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>ring</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>slide</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6553083609137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6542664237105</id>
+    <published>2021-05-03T12:27:51-05:00</published>
+    <updated>2021-05-03T12:27:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/bronc-roll-tee"/>
+    <title>Bronc &amp; Roll Tee</title>
+    <s:type>Graphic Tee</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_8029.jpg?v=1626727757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Graphic Tee<br>
+        <strong>Price: </strong>
+            15.50 - 16.50
+            <a href="https://rowdycrowdclothing.com/products/bronc-roll-tee">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unisex fit, true to size.</p>
+<p>50% cotton 50% polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bronc</s:tag>
+    <s:tag>buckin</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>graphic</s:tag>
+    <s:tag>horse</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>top</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542664237105</id>
+      <title>Small</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542664237105</id>
+      <title>Medium</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542664237105</id>
+      <title>Large</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542664237105</id>
+      <title>Xlarge</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542664237105</id>
+      <title>2X</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542664237105</id>
+      <title>3X</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6546774458417</id>
+    <published>2021-04-26T09:37:46-05:00</published>
+    <updated>2021-04-26T09:37:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/dont-be-a-prick-earrings"/>
+    <title>Don&apos;t Be A Prick Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_5111.png?v=1619447243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% REAL leather made in Texas!</p>
+<p>Lightweight!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>Cactus</s:tag>
+    <s:tag>ear</s:tag>
+    <s:tag>earring</s:tag>
+    <s:tag>earrings</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>prick</s:tag>
+    <s:tag>turquoise</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6546774458417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6542664695857</id>
+    <published>2021-04-05T11:43:09-05:00</published>
+    <updated>2021-04-05T11:43:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/bisbee-bolt-tee"/>
+    <title>Bisbee Bolt Tee</title>
+    <s:type>Graphic Tee</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_7970.jpg?v=1626726411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Graphic Tee<br>
+        <strong>Price: </strong>
+            15.50 - 16.50
+            <a href="https://rowdycrowdclothing.com/products/bisbee-bolt-tee">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unisex fit, true to size.</p>
+<p>52% cotton 48% polyester</p>
+<p>Model is wearing a size Small.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bisbee</s:tag>
+    <s:tag>bolt</s:tag>
+    <s:tag>bright</s:tag>
+    <s:tag>Cactus</s:tag>
+    <s:tag>desert</s:tag>
+    <s:tag>graphic</s:tag>
+    <s:tag>graphic tee</s:tag>
+    <s:tag>neon</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>top</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542664695857</id>
+      <title>Small</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542664695857</id>
+      <title>Medium</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542664695857</id>
+      <title>Large</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542664695857</id>
+      <title>Xlarge</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542664695857</id>
+      <title>2X</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6542664695857</id>
+      <title>3X</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6538068918321</id>
+    <published>2021-03-01T11:21:59-06:00</published>
+    <updated>2021-03-01T11:21:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/spunky-slab-bracelet"/>
+    <title>Spunky Slab Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_8414.png?v=1628706201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Stretchy Material</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bead</s:tag>
+    <s:tag>beaded</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>bright</s:tag>
+    <s:tag>multi</s:tag>
+    <s:tag>neon</s:tag>
+    <s:tag>slab</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6538068918321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4811852021809</id>
+    <published>2021-02-16T13:51:22-06:00</published>
+    <updated>2021-02-16T13:51:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/harvest-moon-necklace"/>
+    <title>Harvest Moon Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_8454.png?v=1628706170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>harvest</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>moon</s:tag>
+    <s:tag>neck</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4811852021809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4807490109489</id>
+    <published>2021-02-01T12:36:18-06:00</published>
+    <updated>2021-02-01T12:36:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/diamond-trio-tee"/>
+    <title>Diamond Trio Tee</title>
+    <s:type>Graphic Tee</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_2736.png?v=1628715302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Graphic Tee<br>
+        <strong>Price: </strong>
+            15.50 - 16.50
+            <a href="https://rowdycrowdclothing.com/products/diamond-trio-tee">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>52% cotton 48% polyester</p>
+<p>Unisex fit, true to size. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cactus</s:tag>
+    <s:tag>cheetah</s:tag>
+    <s:tag>cow</s:tag>
+    <s:tag>cowhide</s:tag>
+    <s:tag>diamond</s:tag>
+    <s:tag>diamond trio</s:tag>
+    <s:tag>graphic</s:tag>
+    <s:tag>graphic tee</s:tag>
+    <s:tag>serape</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>top</s:tag>
+    <s:tag>trio</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4807490109489</id>
+      <title>Small</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4807490109489</id>
+      <title>Medium</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4807490109489</id>
+      <title>Large</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4807490109489</id>
+      <title>XLarge</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4807490109489</id>
+      <title>2XL</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4807490109489</id>
+      <title>3XL</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4815626436657</id>
+    <published>2021-02-01T12:32:56-06:00</published>
+    <updated>2021-02-01T12:32:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/homegrown-wild-rags"/>
+    <title>Homegrown Wild Rags</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_3752.png?v=1612204307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>36" x 36"</p>
+<p>100% polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cream</s:tag>
+    <s:tag>grown</s:tag>
+    <s:tag>home</s:tag>
+    <s:tag>homegrown</s:tag>
+    <s:tag>paisley</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>western</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wild rag</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:tag>wildrags</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4815626436657</id>
+      <title>Cream</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4815626436657</id>
+      <title>Red</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4815626207281</id>
+    <published>2021-02-01T12:30:53-06:00</published>
+    <updated>2021-02-01T12:30:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/friendship-bracelet"/>
+    <title>Friendship Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_3405.png?v=1612204197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Stretchy Material</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>bead</s:tag>
+    <s:tag>beaded</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>friend</s:tag>
+    <s:tag>friendship</s:tag>
+    <s:tag>ship</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4815626207281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4815626993713</id>
+    <published>2021-01-25T11:28:02-06:00</published>
+    <updated>2021-01-25T11:28:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/dixie-earrings"/>
+    <title>Dixie Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_9135.jpg?v=1628708545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lightweight!</p>
+<p>Appx 2.5" long</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>blossom</s:tag>
+    <s:tag>dixie</s:tag>
+    <s:tag>ear</s:tag>
+    <s:tag>earrings</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>naja</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>squash</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4815626993713</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4776833155121</id>
+    <published>2021-01-25T10:57:40-06:00</published>
+    <updated>2021-01-25T10:57:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/phoenix-tee"/>
+    <title>Phoenix Tee</title>
+    <s:type>Graphic Tee</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_0918.png?v=1604070954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Graphic Tee<br>
+        <strong>Price: </strong>
+            14.50 - 15.50
+            <a href="https://rowdycrowdclothing.com/products/phoenix-tee">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>52% cotton 48% polyester</p>
+<p>Unisex fit, true to size.  Model is wearing a size Small.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cactus</s:tag>
+    <s:tag>graphic</s:tag>
+    <s:tag>graphic tee</s:tag>
+    <s:tag>phoenix</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>top</s:tag>
+    <s:tag>western</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4776833155121</id>
+      <title>Small</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4776833155121</id>
+      <title>Medium</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4776833155121</id>
+      <title>Large</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4776833155121</id>
+      <title>XL</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4776833155121</id>
+      <title>2XL</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4776833155121</id>
+      <title>3XL</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4754240405553</id>
+    <published>2021-01-22T11:52:15-06:00</published>
+    <updated>2021-01-22T11:52:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/pecos-ponytail"/>
+    <title>Pecos Ponytail</title>
+    <s:type>ponytail</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_1237.png?v=1628626844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>ponytail<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>hair accessory</s:tag>
+    <s:tag>hair holder</s:tag>
+    <s:tag>hair tie</s:tag>
+    <s:tag>hairtie</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>pony</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>western</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4754240405553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4811851038769</id>
+    <published>2021-01-19T12:10:44-06:00</published>
+    <updated>2021-01-19T12:10:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/light-me-up-earrings"/>
+    <title>Light Me Up Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_2388.png?v=1610138521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Appx 6" long</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>bolt</s:tag>
+    <s:tag>ear</s:tag>
+    <s:tag>earrings</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>lightning</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4811851038769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4811853529137</id>
+    <published>2021-01-12T14:02:18-06:00</published>
+    <updated>2021-01-12T14:02:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/harvest-bracelet"/>
+    <title>Harvest Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_8441.png?v=1628706227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">90% rubber 10% plastic</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>harvest</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4811853529137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4776845967409</id>
+    <published>2020-12-21T11:42:33-06:00</published>
+    <updated>2020-12-21T11:42:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/glitz-glam-necklace"/>
+    <title>Glitz &amp; Glam Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_1104.png?v=1604071058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Appx 8" long on each side.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>glam</s:tag>
+    <s:tag>glitz</s:tag>
+    <s:tag>hot pink</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>neck</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>pink</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4776845967409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4796049752113</id>
+    <published>2020-11-16T11:04:23-06:00</published>
+    <updated>2020-11-16T11:04:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/frio-fringe-earrings"/>
+    <title>Frio Fringe Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_1254-2.jpg?v=1605546266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Appx 5" long</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>ear</s:tag>
+    <s:tag>earring</s:tag>
+    <s:tag>earrings</s:tag>
+    <s:tag>fringe</s:tag>
+    <s:tag>frio</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>tassel</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4796049752113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4716952354865</id>
+    <published>2020-08-31T10:13:44-05:00</published>
+    <updated>2020-08-31T10:13:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/vintage-vibez-tee"/>
+    <title>Vintage Vibez Tee</title>
+    <s:type>Graphic Tee</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_91352.png?v=1617899990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Graphic Tee<br>
+        <strong>Price: </strong>
+            15.50 - 16.50
+            <a href="https://rowdycrowdclothing.com/products/vintage-vibez-tee">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unisex Fit, true to size.</p>
+<p>52% cotton 48% polyester</p>
+<p style="padding-left: 30px;"><strong>﻿Retro v i b e z only in this tee 🌵</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bright</s:tag>
+    <s:tag>Cactus</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>graphic</s:tag>
+    <s:tag>graphic tee</s:tag>
+    <s:tag>retro</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>top</s:tag>
+    <s:tag>triangle</s:tag>
+    <s:tag>vibes</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4716952354865</id>
+      <title>Small</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4716952354865</id>
+      <title>Medium</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4716952354865</id>
+      <title>Large</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4716952354865</id>
+      <title>XL</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4716952354865</id>
+      <title>2XL</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4716952354865</id>
+      <title>3XL</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4707801333809</id>
+    <published>2020-07-13T10:21:34-05:00</published>
+    <updated>2020-07-13T10:21:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/rock-on-cactus-tee"/>
+    <title>Rock On Cactus Tee</title>
+    <s:type>Graphic Tee</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_8206.png?v=1617905955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Graphic Tee<br>
+        <strong>Price: </strong>
+            14.75 - 15.75
+            <a href="https://rowdycrowdclothing.com/products/rock-on-cactus-tee">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>52% cotton / 48% polyester</p>
+<p>Unisex fit, true to size.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bright</s:tag>
+    <s:tag>Cactus</s:tag>
+    <s:tag>graphic</s:tag>
+    <s:tag>graphic tee</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>rock</s:tag>
+    <s:tag>rock n roll</s:tag>
+    <s:tag>rock on</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>sun</s:tag>
+    <s:tag>sunset</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>top</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4707801333809</id>
+      <title>Small</title>
+      <s:price currency="USD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4707801333809</id>
+      <title>Medium</title>
+      <s:price currency="USD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4707801333809</id>
+      <title>Large</title>
+      <s:price currency="USD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4707801333809</id>
+      <title>XL</title>
+      <s:price currency="USD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4707801333809</id>
+      <title>2XL</title>
+      <s:price currency="USD">15.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4707801333809</id>
+      <title>3XL</title>
+      <s:price currency="USD">15.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+</feed>

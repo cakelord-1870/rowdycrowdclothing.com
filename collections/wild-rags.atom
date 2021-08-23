@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rowdycrowdclothing.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rowdycrowdclothing.com/collections/wild-rags.atom"/>
+  <title>Rowdy Crowd Clothing</title>
+  <updated>2021-08-20T10:38:12-05:00</updated>
+  <author>
+    <name>Rowdy Crowd Clothing</name>
+  </author>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4782287650865</id>
+    <published>2021-08-20T10:38:12-05:00</published>
+    <updated>2021-08-20T10:38:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/rodeo-wild-rag"/>
+    <title>Cowtown Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_2543.png?v=1609777384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Appx. 36" x 36"</p>
+<p>100% Polyester </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>animal</s:tag>
+    <s:tag>cow</s:tag>
+    <s:tag>cow print</s:tag>
+    <s:tag>cowhide</s:tag>
+    <s:tag>print</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>western</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wild rag</s:tag>
+    <s:tag>wild rags</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:tag>wildrags</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4782287650865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6605403455537</id>
+    <published>2021-08-16T09:30:51-05:00</published>
+    <updated>2021-08-16T09:30:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/orange-blossom-wild-rag"/>
+    <title>Orange Blossom Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_9287.jpg?v=1628889449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% polyester</p>
+<p>36" x 36"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blossom</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>western</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6605403455537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6583472193585</id>
+    <published>2021-08-16T09:26:46-05:00</published>
+    <updated>2021-08-16T09:26:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/mustard-weed-wild-rag"/>
+    <title>Mustard Weed Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_9234.jpg?v=1628889479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Appx 36" x 36"</p>
+<meta charset="utf-8"><span data-mce-fragment="1"></span>
+<p data-mce-fragment="1"><span data-mce-fragment="1">100% Silk handle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mustard</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>silk</s:tag>
+    <s:tag>weed</s:tag>
+    <s:tag>western</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6583472193585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6583465050161</id>
+    <published>2021-08-09T12:09:22-05:00</published>
+    <updated>2021-08-09T12:09:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/phoenix-wild-rag"/>
+    <title>Phoenix Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_7535.jpg?v=1628528420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Appx 36" x 36"</p>
+<p class="p1" data-mce-fragment="1"><meta charset="utf-8"><span>100% Silk handle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>neck</s:tag>
+    <s:tag>phoenix</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>western</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6583465050161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6583477436465</id>
+    <published>2021-08-09T12:08:28-05:00</published>
+    <updated>2021-08-09T12:08:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/twin-wild-rags"/>
+    <title>Talladega Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_7579.png?v=1628519648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Appx 36" x 36"</p>
+<meta charset="utf-8"><span data-mce-fragment="1"></span>
+<p data-mce-fragment="1"><span data-mce-fragment="1">100% polyester</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>neck</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>talladega</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6583477436465</id>
+      <title>Navy</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6601653616689</id>
+    <published>2021-08-09T09:45:04-05:00</published>
+    <updated>2021-08-09T09:45:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/tuscan-wild-rag"/>
+    <title>Tuscan Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_7603.jpg?v=1626105907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>36" x 36"</p>
+<p>100% polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>paisley</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>tuscan</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6601653616689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6583469080625</id>
+    <published>2021-08-02T09:16:22-05:00</published>
+    <updated>2021-08-02T09:16:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/zebra-stripe-wild-rag"/>
+    <title>Zebra Stripe Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_7582.jpg?v=1627913742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Appx 36" x 36"</p>
+<p class="p1" data-mce-fragment="1">100% polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>stripe</s:tag>
+    <s:tag>striped</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:tag>zebra</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6583469080625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6583461412913</id>
+    <published>2021-08-02T09:14:58-05:00</published>
+    <updated>2021-08-02T09:14:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/jungle-fever-wild-rag"/>
+    <title>Jungle Boogey Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_7597.jpg?v=1627913643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1" class="p1">Appx 36" x 36"</p>
+<p data-mce-fragment="1" class="p1">100% Silk handle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boogey</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>jungle</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>silk</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6583461412913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6583476486193</id>
+    <published>2021-07-26T11:26:24-05:00</published>
+    <updated>2021-07-26T11:26:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/horseshoe-bay-wild-rag"/>
+    <title>Horseshoe Bay Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_7543.jpg?v=1627316739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Appx 36" x 36"</p>
+<meta charset="utf-8"><span data-mce-fragment="1"></span>
+<p data-mce-fragment="1"><span data-mce-fragment="1">100% polyester</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bay</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>horse</s:tag>
+    <s:tag>horseshoe</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>rose</s:tag>
+    <s:tag>roses</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>shoe</s:tag>
+    <s:tag>western</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6583476486193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6583465410609</id>
+    <published>2021-07-26T11:24:55-05:00</published>
+    <updated>2021-07-26T11:24:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/austin-wild-rag"/>
+    <title>Austin Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_7775.jpg?v=1627316661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Appx 27" x 27"</p>
+<p class="p1" data-mce-fragment="1">100% polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>austin</s:tag>
+    <s:tag>bright</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>western</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6583465410609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6583464820785</id>
+    <published>2021-07-19T10:02:11-05:00</published>
+    <updated>2021-07-19T10:02:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/cheetah-girls-wild-rag"/>
+    <title>Cheetah Girls Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_7607.jpg?v=1626706866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Appx 36" x 36"</p>
+<p class="p1" data-mce-fragment="1"><meta charset="utf-8"><span>100% Silk handle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cheetah</s:tag>
+    <s:tag>girls</s:tag>
+    <s:tag>leopard</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>western</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6583464820785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6595743809585</id>
+    <published>2021-07-19T10:00:44-05:00</published>
+    <updated>2021-07-19T10:00:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/dapper-dan"/>
+    <title>Dapper Dan Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_7519.jpg?v=1626706765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>36" x 36"</p>
+<p>100% polyester </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>dan</s:tag>
+    <s:tag>dapper</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6595743809585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6582273867825</id>
+    <published>2021-07-13T12:45:18-05:00</published>
+    <updated>2021-07-13T12:45:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/rowdy-floral-wild-rag"/>
+    <title>Rowdy Floral Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_6515.jpg?v=1622572968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Appx 36" x 36"</p>
+<p class="p1" data-mce-fragment="1"><span data-mce-fragment="1">100% Silk handle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flora</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>rowdy</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6582273867825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6583468032049</id>
+    <published>2021-07-13T12:44:47-05:00</published>
+    <updated>2021-07-13T12:44:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/brown-road-wild-rag"/>
+    <title>Brown Road Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/image_3ea67626-3e72-4688-b07c-c37fc78a119c.jpg?v=1624299422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Appx 36" x 36"</p>
+<p class="p1" data-mce-fragment="1"><meta charset="utf-8"><span>100% Silk handle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black wild rag</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>brown wild rag</s:tag>
+    <s:tag>head scarf</s:tag>
+    <s:tag>paisley</s:tag>
+    <s:tag>Road</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6583468032049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6583469834289</id>
+    <published>2021-07-12T11:01:17-05:00</published>
+    <updated>2021-07-12T11:01:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/horsing-around-wild-rag"/>
+    <title>Horsing Around Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_7789.jpg?v=1626105635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Appx 36" x 36"</p>
+<p class="p1" data-mce-fragment="1">100% polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>around</s:tag>
+    <s:tag>horse</s:tag>
+    <s:tag>horsing</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6583469834289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4337284284465</id>
+    <published>2021-07-09T13:58:47-05:00</published>
+    <updated>2021-07-09T13:58:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/wappo-wild-rag"/>
+    <title>Wappo Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/wappo.png?v=1573669589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>APPX. 36" x 36"</span></p>
+<meta charset="utf-8">
+<p><span>100% Polyester</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>scarf</s:tag>
+    <s:tag>turquoise</s:tag>
+    <s:tag>wappo</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wild rag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4337284284465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6583463084081</id>
+    <published>2021-07-05T10:56:34-05:00</published>
+    <updated>2021-07-05T10:56:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/western-wild-rag"/>
+    <title>Western Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_7573.jpg?v=1625500549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Appx 36" x 36"</p>
+<p class="p1" data-mce-fragment="1">100% polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brown</s:tag>
+    <s:tag>paisley</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>western</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6583463084081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/4518803996721</id>
+    <published>2021-06-29T08:39:47-05:00</published>
+    <updated>2021-06-29T08:39:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/perfect-paisley-wild-rag"/>
+    <title>Perfect Paisley Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_6217.png?v=1583339235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Appx 36" x 36"</p>
+<p>100% polyester blend</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>neck scarf</s:tag>
+    <s:tag>paisley</s:tag>
+    <s:tag>perfect</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>western</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wild rag</s:tag>
+    <s:tag>wild rags</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:tag>wildrags</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/4518803996721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6583463968817</id>
+    <published>2021-06-28T12:55:33-05:00</published>
+    <updated>2021-06-28T12:55:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/blue-hawaiian-wild-rag"/>
+    <title>Blue Hawaiian Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_7227.jpg?v=1624902878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Appx 36" x 36"</p>
+<p class="p1" data-mce-fragment="1">100% polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>bluepaisley</s:tag>
+    <s:tag>hawaiian</s:tag>
+    <s:tag>paisley</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6583463968817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6583467474993</id>
+    <published>2021-06-28T12:42:49-05:00</published>
+    <updated>2021-06-28T12:42:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/oregon-wild-rag"/>
+    <title>Oregon Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_7231.jpg?v=1624902222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Appx 36" x 36"</p>
+<p class="p1" data-mce-fragment="1"><meta charset="utf-8"><span>100% Silk handle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floral</s:tag>
+    <s:tag>flowers</s:tag>
+    <s:tag>oregon</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>rust</s:tag>
+    <s:tag>teal</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6583467474993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6583471964209</id>
+    <published>2021-06-07T13:17:51-05:00</published>
+    <updated>2021-06-07T13:17:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/sweet-summertime-wild-rag"/>
+    <title>Sweet Summertime Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_6525.jpg?v=1623089821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Appx 36" x 36"</p>
+<meta charset="utf-8"><span data-mce-fragment="1"></span>
+<p data-mce-fragment="1"><meta charset="utf-8"><span>100% Silk handle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floral</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>silk</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summertime</s:tag>
+    <s:tag>sweet</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6583471964209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6576582262833</id>
+    <published>2021-06-07T13:09:58-05:00</published>
+    <updated>2021-06-07T13:09:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/wilhite-wild-rag"/>
+    <title>Wilhite Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_6562.jpg?v=1623089460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Appx 36" x 36"</p>
+<meta charset="utf-8"><span data-mce-fragment="1"></span>
+<p data-mce-fragment="1"><span data-mce-fragment="1">100% polyester</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floral</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:tag>wilhite</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6576582262833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6583466524721</id>
+    <published>2021-06-07T13:02:00-05:00</published>
+    <updated>2021-06-07T13:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/70-s-wild-rag"/>
+    <title>70’s Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_6551.jpg?v=1623088918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Appx 36" x 36"</p>
+<p class="p1" data-mce-fragment="1">100% polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6583466524721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6564448829489</id>
+    <published>2021-06-01T13:39:54-05:00</published>
+    <updated>2021-06-01T13:39:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/arizona-aztec-wild-rag"/>
+    <title>Arizona Aztec Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_6284.jpg?v=1622572597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">36" x 36"</p>
+<p data-mce-fragment="1">100% polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arizona</s:tag>
+    <s:tag>aztec</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>western</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wild rag</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6564448829489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rowdycrowdclothing.com/products/6564449976369</id>
+    <published>2021-05-24T12:17:02-05:00</published>
+    <updated>2021-05-24T12:17:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rowdycrowdclothing.com/products/texas-tango-wild-rag"/>
+    <title>Texas Tango Wild Rag</title>
+    <s:type>Wild Rag</s:type>
+    <s:vendor>Rowdy Crowd Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2250/7083/products/IMG_6310.png?v=1621866875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowdy Crowd Clothing<br>
+        <strong>Type: </strong>Wild Rag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">36" x 36"</p>
+<p data-mce-fragment="1">100% polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>leather</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>tango</s:tag>
+    <s:tag>texas</s:tag>
+    <s:tag>tooled</s:tag>
+    <s:tag>wild</s:tag>
+    <s:tag>wild rag</s:tag>
+    <s:tag>wildrag</s:tag>
+    <s:variant>
+      <id>https://rowdycrowdclothing.com/products/6564449976369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>
